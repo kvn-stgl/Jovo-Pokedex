@@ -1,20 +1,10 @@
-[![Jovo Framework](https://www.jovo.tech/img/github-logo.png)](https://www.jovo.tech)
+# A pokedex for Amazon Alexa / Google Assistant 
+![Node.js CI](https://github.com/kvn-stgl/Jovo-Pokedex/workflows/Node.js%20CI/badge.svg)
 
-<p align="center">Templates for the <a href="https://github.com/jovotech/jovo-framework-nodejs">Jovo Framework</a> ⭐️</p>
+### created with:
+* [Jovo](https://www.jovo.tech) A nice framework that lets you build cross-platform voice apps with a single code base.
+* [PokéApi v2](https://pokeapi.co) Public RESTful API with info on all the pokemons to date. 
+* [Pokedex Promise v2](https://github.com/PokeAPI/pokedex-promise-v2) A node wrapper for the pokeapi that uses promises and callbacks.
 
-<p align="center">
-<a href="https://www.jovo.tech/framework/docs/"><strong>Documentation</strong></a> -
-<a href="https://github.com/jovotech/jovo-cli"><strong>CLI </strong></a> - <a href="https://github.com/jovotech/jovo-framework-nodejs/blob/master/CONTRIBUTING.md"><strong>Contributing</strong></a> - <a href="https://twitter.com/jovotech"><strong>Twitter</strong></a></p>
-<br/>
-
-# Template: Hello World
-
-Jovo Sample Voice App with a simple "Hello World!" + asking for the user's name. This is the default template for the `jovo new` command:
-
-```sh
-$ jovo new <directory>
-
-## Alternative
-$ jovo new <directory> --template helloworld
-```
-
+### Inspired by
+https://github.com/dmarvp/voice-pokedex
