@@ -1,0 +1,114 @@
+[
+	{
+		"data": [
+			{
+				"text": "who is the pokemon at ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give me the pokedex entry for ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "what is the Pokemon at number ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "give me some info on ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want to know about Pokemon number ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "look up Pokemon number ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "tell me about the Pokemon number ",
+				"userDefined": false
+			},
+			{
+				"text": "number",
+				"userDefined": true,
+				"alias": "number",
+				"meta": "@sys.number-integer"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

@@ -1,0 +1,18 @@
+{
+	"name": "PokedexNameIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "pokemon",
+					"value": "$pokemon",
+					"dataType": "@POKEMON_EN"
+				}
+			]
+		}
+	],
+	"webhookForSlotFilling": true
+}

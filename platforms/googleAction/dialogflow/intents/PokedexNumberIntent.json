@@ -1,0 +1,19 @@
+{
+	"name": "PokedexNumberIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "number",
+					"value": "$number",
+					"dataType": "@sys.number-integer",
+					"required": true
+				}
+			]
+		}
+	],
+	"webhookForSlotFilling": true
+}

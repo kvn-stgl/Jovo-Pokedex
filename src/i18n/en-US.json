@@ -1,0 +1,19 @@
+{
+    "translation": {
+      "lang": "en",
+      "welcome": {
+          "message": "Welcome to the voice pokedex. About what pokemon do you want to know something?",
+          "question":  "About what pokemon do you want to know something?"
+      },
+      "error": "There was an error with your request, please try again",
+      "pokemon_not_found": "I couldn't find the pokemon you asked about, please try again.",
+      "pokemon_position_name": "The pokemon at position {{position}} is {{name}}.",
+      "pokemon_at_position": "{{name}} is at pokedex position {{position}}.",
+      "pokemon_description_question": "Do you want to hear {{name}}'s description?",
+      "another_pokemon_question": "Would you like to know something about another pokemon?",
+      "answer_yes_no": "Please answer with yes or no.",
+      "goodbye": "Goodbye!",
+      "provide_pokemon_number": "Please provide the number of the pokemon in the pokedex.",
+      "wrong_pokemon_name": "I can't find a pokemon with this name. Please try again."
+    }
+  }

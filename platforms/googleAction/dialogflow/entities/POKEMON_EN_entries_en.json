@@ -1,0 +1,4844 @@
+[
+	{
+		"value": "Bulbasaur",
+		"synonyms": [
+			"Bulbasaur"
+		]
+	},
+	{
+		"value": "Ivysaur",
+		"synonyms": [
+			"Ivysaur"
+		]
+	},
+	{
+		"value": "Venusaur",
+		"synonyms": [
+			"Venusaur"
+		]
+	},
+	{
+		"value": "Charmander",
+		"synonyms": [
+			"Charmander"
+		]
+	},
+	{
+		"value": "Charmeleon",
+		"synonyms": [
+			"Charmeleon"
+		]
+	},
+	{
+		"value": "Charizard",
+		"synonyms": [
+			"Charizard"
+		]
+	},
+	{
+		"value": "Squirtle",
+		"synonyms": [
+			"Squirtle"
+		]
+	},
+	{
+		"value": "Wartortle",
+		"synonyms": [
+			"Wartortle"
+		]
+	},
+	{
+		"value": "Blastoise",
+		"synonyms": [
+			"Blastoise"
+		]
+	},
+	{
+		"value": "Caterpie",
+		"synonyms": [
+			"Caterpie"
+		]
+	},
+	{
+		"value": "Metapod",
+		"synonyms": [
+			"Metapod"
+		]
+	},
+	{
+		"value": "Butterfree",
+		"synonyms": [
+			"Butterfree"
+		]
+	},
+	{
+		"value": "Weedle",
+		"synonyms": [
+			"Weedle"
+		]
+	},
+	{
+		"value": "Kakuna",
+		"synonyms": [
+			"Kakuna"
+		]
+	},
+	{
+		"value": "Beedrill",
+		"synonyms": [
+			"Beedrill"
+		]
+	},
+	{
+		"value": "Pidgey",
+		"synonyms": [
+			"Pidgey"
+		]
+	},
+	{
+		"value": "Pidgeotto",
+		"synonyms": [
+			"Pidgeotto"
+		]
+	},
+	{
+		"value": "Pidgeot",
+		"synonyms": [
+			"Pidgeot"
+		]
+	},
+	{
+		"value": "Rattata",
+		"synonyms": [
+			"Rattata"
+		]
+	},
+	{
+		"value": "Raticate",
+		"synonyms": [
+			"Raticate"
+		]
+	},
+	{
+		"value": "Spearow",
+		"synonyms": [
+			"Spearow"
+		]
+	},
+	{
+		"value": "Fearow",
+		"synonyms": [
+			"Fearow"
+		]
+	},
+	{
+		"value": "Ekans",
+		"synonyms": [
+			"Ekans"
+		]
+	},
+	{
+		"value": "Arbok",
+		"synonyms": [
+			"Arbok"
+		]
+	},
+	{
+		"value": "Pikachu",
+		"synonyms": [
+			"Pikachu"
+		]
+	},
+	{
+		"value": "Raichu",
+		"synonyms": [
+			"Raichu"
+		]
+	},
+	{
+		"value": "Sandshrew",
+		"synonyms": [
+			"Sandshrew"
+		]
+	},
+	{
+		"value": "Sandslash",
+		"synonyms": [
+			"Sandslash"
+		]
+	},
+	{
+		"value": "Nidoran♀",
+		"synonyms": [
+			"Nidoran"
+		]
+	},
+	{
+		"value": "Nidorina",
+		"synonyms": [
+			"Nidorina"
+		]
+	},
+	{
+		"value": "Nidoqueen",
+		"synonyms": [
+			"Nidoqueen"
+		]
+	},
+	{
+		"value": "Nidoran♂",
+		"synonyms": [
+			"Nidoran"
+		]
+	},
+	{
+		"value": "Nidorino",
+		"synonyms": [
+			"Nidorino"
+		]
+	},
+	{
+		"value": "Nidoking",
+		"synonyms": [
+			"Nidoking"
+		]
+	},
+	{
+		"value": "Clefairy",
+		"synonyms": [
+			"Clefairy"
+		]
+	},
+	{
+		"value": "Clefable",
+		"synonyms": [
+			"Clefable"
+		]
+	},
+	{
+		"value": "Vulpix",
+		"synonyms": [
+			"Vulpix"
+		]
+	},
+	{
+		"value": "Ninetales",
+		"synonyms": [
+			"Ninetales"
+		]
+	},
+	{
+		"value": "Jigglypuff",
+		"synonyms": [
+			"Jigglypuff"
+		]
+	},
+	{
+		"value": "Wigglytuff",
+		"synonyms": [
+			"Wigglytuff"
+		]
+	},
+	{
+		"value": "Zubat",
+		"synonyms": [
+			"Zubat"
+		]
+	},
+	{
+		"value": "Golbat",
+		"synonyms": [
+			"Golbat"
+		]
+	},
+	{
+		"value": "Oddish",
+		"synonyms": [
+			"Oddish"
+		]
+	},
+	{
+		"value": "Gloom",
+		"synonyms": [
+			"Gloom"
+		]
+	},
+	{
+		"value": "Vileplume",
+		"synonyms": [
+			"Vileplume"
+		]
+	},
+	{
+		"value": "Paras",
+		"synonyms": [
+			"Paras"
+		]
+	},
+	{
+		"value": "Parasect",
+		"synonyms": [
+			"Parasect"
+		]
+	},
+	{
+		"value": "Venonat",
+		"synonyms": [
+			"Venonat"
+		]
+	},
+	{
+		"value": "Venomoth",
+		"synonyms": [
+			"Venomoth"
+		]
+	},
+	{
+		"value": "Diglett",
+		"synonyms": [
+			"Diglett"
+		]
+	},
+	{
+		"value": "Dugtrio",
+		"synonyms": [
+			"Dugtrio"
+		]
+	},
+	{
+		"value": "Meowth",
+		"synonyms": [
+			"Meowth"
+		]
+	},
+	{
+		"value": "Persian",
+		"synonyms": [
+			"Persian"
+		]
+	},
+	{
+		"value": "Psyduck",
+		"synonyms": [
+			"Psyduck"
+		]
+	},
+	{
+		"value": "Golduck",
+		"synonyms": [
+			"Golduck"
+		]
+	},
+	{
+		"value": "Mankey",
+		"synonyms": [
+			"Mankey"
+		]
+	},
+	{
+		"value": "Primeape",
+		"synonyms": [
+			"Primeape"
+		]
+	},
+	{
+		"value": "Growlithe",
+		"synonyms": [
+			"Growlithe"
+		]
+	},
+	{
+		"value": "Arcanine",
+		"synonyms": [
+			"Arcanine"
+		]
+	},
+	{
+		"value": "Poliwag",
+		"synonyms": [
+			"Poliwag"
+		]
+	},
+	{
+		"value": "Poliwhirl",
+		"synonyms": [
+			"Poliwhirl"
+		]
+	},
+	{
+		"value": "Poliwrath",
+		"synonyms": [
+			"Poliwrath"
+		]
+	},
+	{
+		"value": "Abra",
+		"synonyms": [
+			"Abra"
+		]
+	},
+	{
+		"value": "Kadabra",
+		"synonyms": [
+			"Kadabra"
+		]
+	},
+	{
+		"value": "Alakazam",
+		"synonyms": [
+			"Alakazam"
+		]
+	},
+	{
+		"value": "Machop",
+		"synonyms": [
+			"Machop"
+		]
+	},
+	{
+		"value": "Machoke",
+		"synonyms": [
+			"Machoke"
+		]
+	},
+	{
+		"value": "Machamp",
+		"synonyms": [
+			"Machamp"
+		]
+	},
+	{
+		"value": "Bellsprout",
+		"synonyms": [
+			"Bellsprout"
+		]
+	},
+	{
+		"value": "Weepinbell",
+		"synonyms": [
+			"Weepinbell"
+		]
+	},
+	{
+		"value": "Victreebel",
+		"synonyms": [
+			"Victreebel"
+		]
+	},
+	{
+		"value": "Tentacool",
+		"synonyms": [
+			"Tentacool"
+		]
+	},
+	{
+		"value": "Tentacruel",
+		"synonyms": [
+			"Tentacruel"
+		]
+	},
+	{
+		"value": "Geodude",
+		"synonyms": [
+			"Geodude"
+		]
+	},
+	{
+		"value": "Graveler",
+		"synonyms": [
+			"Graveler"
+		]
+	},
+	{
+		"value": "Golem",
+		"synonyms": [
+			"Golem"
+		]
+	},
+	{
+		"value": "Ponyta",
+		"synonyms": [
+			"Ponyta"
+		]
+	},
+	{
+		"value": "Rapidash",
+		"synonyms": [
+			"Rapidash"
+		]
+	},
+	{
+		"value": "Slowpoke",
+		"synonyms": [
+			"Slowpoke"
+		]
+	},
+	{
+		"value": "Slowbro",
+		"synonyms": [
+			"Slowbro"
+		]
+	},
+	{
+		"value": "Magnemite",
+		"synonyms": [
+			"Magnemite"
+		]
+	},
+	{
+		"value": "Magneton",
+		"synonyms": [
+			"Magneton"
+		]
+	},
+	{
+		"value": "Farfetch’d",
+		"synonyms": [
+			"Farfetchd"
+		]
+	},
+	{
+		"value": "Doduo",
+		"synonyms": [
+			"Doduo"
+		]
+	},
+	{
+		"value": "Dodrio",
+		"synonyms": [
+			"Dodrio"
+		]
+	},
+	{
+		"value": "Seel",
+		"synonyms": [
+			"Seel"
+		]
+	},
+	{
+		"value": "Dewgong",
+		"synonyms": [
+			"Dewgong"
+		]
+	},
+	{
+		"value": "Grimer",
+		"synonyms": [
+			"Grimer"
+		]
+	},
+	{
+		"value": "Muk",
+		"synonyms": [
+			"Muk"
+		]
+	},
+	{
+		"value": "Shellder",
+		"synonyms": [
+			"Shellder"
+		]
+	},
+	{
+		"value": "Cloyster",
+		"synonyms": [
+			"Cloyster"
+		]
+	},
+	{
+		"value": "Gastly",
+		"synonyms": [
+			"Gastly"
+		]
+	},
+	{
+		"value": "Haunter",
+		"synonyms": [
+			"Haunter"
+		]
+	},
+	{
+		"value": "Gengar",
+		"synonyms": [
+			"Gengar"
+		]
+	},
+	{
+		"value": "Onix",
+		"synonyms": [
+			"Onix"
+		]
+	},
+	{
+		"value": "Drowzee",
+		"synonyms": [
+			"Drowzee"
+		]
+	},
+	{
+		"value": "Hypno",
+		"synonyms": [
+			"Hypno"
+		]
+	},
+	{
+		"value": "Krabby",
+		"synonyms": [
+			"Krabby"
+		]
+	},
+	{
+		"value": "Kingler",
+		"synonyms": [
+			"Kingler"
+		]
+	},
+	{
+		"value": "Voltorb",
+		"synonyms": [
+			"Voltorb"
+		]
+	},
+	{
+		"value": "Electrode",
+		"synonyms": [
+			"Electrode"
+		]
+	},
+	{
+		"value": "Exeggcute",
+		"synonyms": [
+			"Exeggcute"
+		]
+	},
+	{
+		"value": "Exeggutor",
+		"synonyms": [
+			"Exeggutor"
+		]
+	},
+	{
+		"value": "Cubone",
+		"synonyms": [
+			"Cubone"
+		]
+	},
+	{
+		"value": "Marowak",
+		"synonyms": [
+			"Marowak"
+		]
+	},
+	{
+		"value": "Hitmonlee",
+		"synonyms": [
+			"Hitmonlee"
+		]
+	},
+	{
+		"value": "Hitmonchan",
+		"synonyms": [
+			"Hitmonchan"
+		]
+	},
+	{
+		"value": "Lickitung",
+		"synonyms": [
+			"Lickitung"
+		]
+	},
+	{
+		"value": "Koffing",
+		"synonyms": [
+			"Koffing"
+		]
+	},
+	{
+		"value": "Weezing",
+		"synonyms": [
+			"Weezing"
+		]
+	},
+	{
+		"value": "Rhyhorn",
+		"synonyms": [
+			"Rhyhorn"
+		]
+	},
+	{
+		"value": "Rhydon",
+		"synonyms": [
+			"Rhydon"
+		]
+	},
+	{
+		"value": "Chansey",
+		"synonyms": [
+			"Chansey"
+		]
+	},
+	{
+		"value": "Tangela",
+		"synonyms": [
+			"Tangela"
+		]
+	},
+	{
+		"value": "Kangaskhan",
+		"synonyms": [
+			"Kangaskhan"
+		]
+	},
+	{
+		"value": "Horsea",
+		"synonyms": [
+			"Horsea"
+		]
+	},
+	{
+		"value": "Seadra",
+		"synonyms": [
+			"Seadra"
+		]
+	},
+	{
+		"value": "Goldeen",
+		"synonyms": [
+			"Goldeen"
+		]
+	},
+	{
+		"value": "Seaking",
+		"synonyms": [
+			"Seaking"
+		]
+	},
+	{
+		"value": "Staryu",
+		"synonyms": [
+			"Staryu"
+		]
+	},
+	{
+		"value": "Starmie",
+		"synonyms": [
+			"Starmie"
+		]
+	},
+	{
+		"value": "Mr. Mime",
+		"synonyms": [
+			"Mr Mime"
+		]
+	},
+	{
+		"value": "Scyther",
+		"synonyms": [
+			"Scyther"
+		]
+	},
+	{
+		"value": "Jynx",
+		"synonyms": [
+			"Jynx"
+		]
+	},
+	{
+		"value": "Electabuzz",
+		"synonyms": [
+			"Electabuzz"
+		]
+	},
+	{
+		"value": "Magmar",
+		"synonyms": [
+			"Magmar"
+		]
+	},
+	{
+		"value": "Pinsir",
+		"synonyms": [
+			"Pinsir"
+		]
+	},
+	{
+		"value": "Tauros",
+		"synonyms": [
+			"Tauros"
+		]
+	},
+	{
+		"value": "Magikarp",
+		"synonyms": [
+			"Magikarp"
+		]
+	},
+	{
+		"value": "Gyarados",
+		"synonyms": [
+			"Gyarados"
+		]
+	},
+	{
+		"value": "Lapras",
+		"synonyms": [
+			"Lapras"
+		]
+	},
+	{
+		"value": "Ditto",
+		"synonyms": [
+			"Ditto"
+		]
+	},
+	{
+		"value": "Eevee",
+		"synonyms": [
+			"Eevee"
+		]
+	},
+	{
+		"value": "Vaporeon",
+		"synonyms": [
+			"Vaporeon"
+		]
+	},
+	{
+		"value": "Jolteon",
+		"synonyms": [
+			"Jolteon"
+		]
+	},
+	{
+		"value": "Flareon",
+		"synonyms": [
+			"Flareon"
+		]
+	},
+	{
+		"value": "Porygon",
+		"synonyms": [
+			"Porygon"
+		]
+	},
+	{
+		"value": "Omanyte",
+		"synonyms": [
+			"Omanyte"
+		]
+	},
+	{
+		"value": "Omastar",
+		"synonyms": [
+			"Omastar"
+		]
+	},
+	{
+		"value": "Kabuto",
+		"synonyms": [
+			"Kabuto"
+		]
+	},
+	{
+		"value": "Kabutops",
+		"synonyms": [
+			"Kabutops"
+		]
+	},
+	{
+		"value": "Aerodactyl",
+		"synonyms": [
+			"Aerodactyl"
+		]
+	},
+	{
+		"value": "Snorlax",
+		"synonyms": [
+			"Snorlax"
+		]
+	},
+	{
+		"value": "Articuno",
+		"synonyms": [
+			"Articuno"
+		]
+	},
+	{
+		"value": "Zapdos",
+		"synonyms": [
+			"Zapdos"
+		]
+	},
+	{
+		"value": "Moltres",
+		"synonyms": [
+			"Moltres"
+		]
+	},
+	{
+		"value": "Dratini",
+		"synonyms": [
+			"Dratini"
+		]
+	},
+	{
+		"value": "Dragonair",
+		"synonyms": [
+			"Dragonair"
+		]
+	},
+	{
+		"value": "Dragonite",
+		"synonyms": [
+			"Dragonite"
+		]
+	},
+	{
+		"value": "Mewtwo",
+		"synonyms": [
+			"Mewtwo"
+		]
+	},
+	{
+		"value": "Mew",
+		"synonyms": [
+			"Mew"
+		]
+	},
+	{
+		"value": "Chikorita",
+		"synonyms": [
+			"Chikorita"
+		]
+	},
+	{
+		"value": "Bayleef",
+		"synonyms": [
+			"Bayleef"
+		]
+	},
+	{
+		"value": "Meganium",
+		"synonyms": [
+			"Meganium"
+		]
+	},
+	{
+		"value": "Cyndaquil",
+		"synonyms": [
+			"Cyndaquil"
+		]
+	},
+	{
+		"value": "Quilava",
+		"synonyms": [
+			"Quilava"
+		]
+	},
+	{
+		"value": "Typhlosion",
+		"synonyms": [
+			"Typhlosion"
+		]
+	},
+	{
+		"value": "Totodile",
+		"synonyms": [
+			"Totodile"
+		]
+	},
+	{
+		"value": "Croconaw",
+		"synonyms": [
+			"Croconaw"
+		]
+	},
+	{
+		"value": "Feraligatr",
+		"synonyms": [
+			"Feraligatr"
+		]
+	},
+	{
+		"value": "Sentret",
+		"synonyms": [
+			"Sentret"
+		]
+	},
+	{
+		"value": "Furret",
+		"synonyms": [
+			"Furret"
+		]
+	},
+	{
+		"value": "Hoothoot",
+		"synonyms": [
+			"Hoothoot"
+		]
+	},
+	{
+		"value": "Noctowl",
+		"synonyms": [
+			"Noctowl"
+		]
+	},
+	{
+		"value": "Ledyba",
+		"synonyms": [
+			"Ledyba"
+		]
+	},
+	{
+		"value": "Ledian",
+		"synonyms": [
+			"Ledian"
+		]
+	},
+	{
+		"value": "Spinarak",
+		"synonyms": [
+			"Spinarak"
+		]
+	},
+	{
+		"value": "Ariados",
+		"synonyms": [
+			"Ariados"
+		]
+	},
+	{
+		"value": "Crobat",
+		"synonyms": [
+			"Crobat"
+		]
+	},
+	{
+		"value": "Chinchou",
+		"synonyms": [
+			"Chinchou"
+		]
+	},
+	{
+		"value": "Lanturn",
+		"synonyms": [
+			"Lanturn"
+		]
+	},
+	{
+		"value": "Pichu",
+		"synonyms": [
+			"Pichu"
+		]
+	},
+	{
+		"value": "Cleffa",
+		"synonyms": [
+			"Cleffa"
+		]
+	},
+	{
+		"value": "Igglybuff",
+		"synonyms": [
+			"Igglybuff"
+		]
+	},
+	{
+		"value": "Togepi",
+		"synonyms": [
+			"Togepi"
+		]
+	},
+	{
+		"value": "Togetic",
+		"synonyms": [
+			"Togetic"
+		]
+	},
+	{
+		"value": "Natu",
+		"synonyms": [
+			"Natu"
+		]
+	},
+	{
+		"value": "Xatu",
+		"synonyms": [
+			"Xatu"
+		]
+	},
+	{
+		"value": "Mareep",
+		"synonyms": [
+			"Mareep"
+		]
+	},
+	{
+		"value": "Flaaffy",
+		"synonyms": [
+			"Flaaffy"
+		]
+	},
+	{
+		"value": "Ampharos",
+		"synonyms": [
+			"Ampharos"
+		]
+	},
+	{
+		"value": "Bellossom",
+		"synonyms": [
+			"Bellossom"
+		]
+	},
+	{
+		"value": "Marill",
+		"synonyms": [
+			"Marill"
+		]
+	},
+	{
+		"value": "Azumarill",
+		"synonyms": [
+			"Azumarill"
+		]
+	},
+	{
+		"value": "Sudowoodo",
+		"synonyms": [
+			"Sudowoodo"
+		]
+	},
+	{
+		"value": "Politoed",
+		"synonyms": [
+			"Politoed"
+		]
+	},
+	{
+		"value": "Hoppip",
+		"synonyms": [
+			"Hoppip"
+		]
+	},
+	{
+		"value": "Skiploom",
+		"synonyms": [
+			"Skiploom"
+		]
+	},
+	{
+		"value": "Jumpluff",
+		"synonyms": [
+			"Jumpluff"
+		]
+	},
+	{
+		"value": "Aipom",
+		"synonyms": [
+			"Aipom"
+		]
+	},
+	{
+		"value": "Sunkern",
+		"synonyms": [
+			"Sunkern"
+		]
+	},
+	{
+		"value": "Sunflora",
+		"synonyms": [
+			"Sunflora"
+		]
+	},
+	{
+		"value": "Yanma",
+		"synonyms": [
+			"Yanma"
+		]
+	},
+	{
+		"value": "Wooper",
+		"synonyms": [
+			"Wooper"
+		]
+	},
+	{
+		"value": "Quagsire",
+		"synonyms": [
+			"Quagsire"
+		]
+	},
+	{
+		"value": "Espeon",
+		"synonyms": [
+			"Espeon"
+		]
+	},
+	{
+		"value": "Umbreon",
+		"synonyms": [
+			"Umbreon"
+		]
+	},
+	{
+		"value": "Murkrow",
+		"synonyms": [
+			"Murkrow"
+		]
+	},
+	{
+		"value": "Slowking",
+		"synonyms": [
+			"Slowking"
+		]
+	},
+	{
+		"value": "Misdreavus",
+		"synonyms": [
+			"Misdreavus"
+		]
+	},
+	{
+		"value": "Unown",
+		"synonyms": [
+			"Unown"
+		]
+	},
+	{
+		"value": "Wobbuffet",
+		"synonyms": [
+			"Wobbuffet"
+		]
+	},
+	{
+		"value": "Girafarig",
+		"synonyms": [
+			"Girafarig"
+		]
+	},
+	{
+		"value": "Pineco",
+		"synonyms": [
+			"Pineco"
+		]
+	},
+	{
+		"value": "Forretress",
+		"synonyms": [
+			"Forretress"
+		]
+	},
+	{
+		"value": "Dunsparce",
+		"synonyms": [
+			"Dunsparce"
+		]
+	},
+	{
+		"value": "Gligar",
+		"synonyms": [
+			"Gligar"
+		]
+	},
+	{
+		"value": "Steelix",
+		"synonyms": [
+			"Steelix"
+		]
+	},
+	{
+		"value": "Snubbull",
+		"synonyms": [
+			"Snubbull"
+		]
+	},
+	{
+		"value": "Granbull",
+		"synonyms": [
+			"Granbull"
+		]
+	},
+	{
+		"value": "Qwilfish",
+		"synonyms": [
+			"Qwilfish"
+		]
+	},
+	{
+		"value": "Scizor",
+		"synonyms": [
+			"Scizor"
+		]
+	},
+	{
+		"value": "Shuckle",
+		"synonyms": [
+			"Shuckle"
+		]
+	},
+	{
+		"value": "Heracross",
+		"synonyms": [
+			"Heracross"
+		]
+	},
+	{
+		"value": "Sneasel",
+		"synonyms": [
+			"Sneasel"
+		]
+	},
+	{
+		"value": "Teddiursa",
+		"synonyms": [
+			"Teddiursa"
+		]
+	},
+	{
+		"value": "Ursaring",
+		"synonyms": [
+			"Ursaring"
+		]
+	},
+	{
+		"value": "Slugma",
+		"synonyms": [
+			"Slugma"
+		]
+	},
+	{
+		"value": "Magcargo",
+		"synonyms": [
+			"Magcargo"
+		]
+	},
+	{
+		"value": "Swinub",
+		"synonyms": [
+			"Swinub"
+		]
+	},
+	{
+		"value": "Piloswine",
+		"synonyms": [
+			"Piloswine"
+		]
+	},
+	{
+		"value": "Corsola",
+		"synonyms": [
+			"Corsola"
+		]
+	},
+	{
+		"value": "Remoraid",
+		"synonyms": [
+			"Remoraid"
+		]
+	},
+	{
+		"value": "Octillery",
+		"synonyms": [
+			"Octillery"
+		]
+	},
+	{
+		"value": "Delibird",
+		"synonyms": [
+			"Delibird"
+		]
+	},
+	{
+		"value": "Mantine",
+		"synonyms": [
+			"Mantine"
+		]
+	},
+	{
+		"value": "Skarmory",
+		"synonyms": [
+			"Skarmory"
+		]
+	},
+	{
+		"value": "Houndour",
+		"synonyms": [
+			"Houndour"
+		]
+	},
+	{
+		"value": "Houndoom",
+		"synonyms": [
+			"Houndoom"
+		]
+	},
+	{
+		"value": "Kingdra",
+		"synonyms": [
+			"Kingdra"
+		]
+	},
+	{
+		"value": "Phanpy",
+		"synonyms": [
+			"Phanpy"
+		]
+	},
+	{
+		"value": "Donphan",
+		"synonyms": [
+			"Donphan"
+		]
+	},
+	{
+		"value": "Porygon2",
+		"synonyms": [
+			"Porygon2"
+		]
+	},
+	{
+		"value": "Stantler",
+		"synonyms": [
+			"Stantler"
+		]
+	},
+	{
+		"value": "Smeargle",
+		"synonyms": [
+			"Smeargle"
+		]
+	},
+	{
+		"value": "Tyrogue",
+		"synonyms": [
+			"Tyrogue"
+		]
+	},
+	{
+		"value": "Hitmontop",
+		"synonyms": [
+			"Hitmontop"
+		]
+	},
+	{
+		"value": "Smoochum",
+		"synonyms": [
+			"Smoochum"
+		]
+	},
+	{
+		"value": "Elekid",
+		"synonyms": [
+			"Elekid"
+		]
+	},
+	{
+		"value": "Magby",
+		"synonyms": [
+			"Magby"
+		]
+	},
+	{
+		"value": "Miltank",
+		"synonyms": [
+			"Miltank"
+		]
+	},
+	{
+		"value": "Blissey",
+		"synonyms": [
+			"Blissey"
+		]
+	},
+	{
+		"value": "Raikou",
+		"synonyms": [
+			"Raikou"
+		]
+	},
+	{
+		"value": "Entei",
+		"synonyms": [
+			"Entei"
+		]
+	},
+	{
+		"value": "Suicune",
+		"synonyms": [
+			"Suicune"
+		]
+	},
+	{
+		"value": "Larvitar",
+		"synonyms": [
+			"Larvitar"
+		]
+	},
+	{
+		"value": "Pupitar",
+		"synonyms": [
+			"Pupitar"
+		]
+	},
+	{
+		"value": "Tyranitar",
+		"synonyms": [
+			"Tyranitar"
+		]
+	},
+	{
+		"value": "Lugia",
+		"synonyms": [
+			"Lugia"
+		]
+	},
+	{
+		"value": "Ho-Oh",
+		"synonyms": [
+			"Ho-Oh"
+		]
+	},
+	{
+		"value": "Celebi",
+		"synonyms": [
+			"Celebi"
+		]
+	},
+	{
+		"value": "Treecko",
+		"synonyms": [
+			"Treecko"
+		]
+	},
+	{
+		"value": "Grovyle",
+		"synonyms": [
+			"Grovyle"
+		]
+	},
+	{
+		"value": "Sceptile",
+		"synonyms": [
+			"Sceptile"
+		]
+	},
+	{
+		"value": "Torchic",
+		"synonyms": [
+			"Torchic"
+		]
+	},
+	{
+		"value": "Combusken",
+		"synonyms": [
+			"Combusken"
+		]
+	},
+	{
+		"value": "Blaziken",
+		"synonyms": [
+			"Blaziken"
+		]
+	},
+	{
+		"value": "Mudkip",
+		"synonyms": [
+			"Mudkip"
+		]
+	},
+	{
+		"value": "Marshtomp",
+		"synonyms": [
+			"Marshtomp"
+		]
+	},
+	{
+		"value": "Swampert",
+		"synonyms": [
+			"Swampert"
+		]
+	},
+	{
+		"value": "Poochyena",
+		"synonyms": [
+			"Poochyena"
+		]
+	},
+	{
+		"value": "Mightyena",
+		"synonyms": [
+			"Mightyena"
+		]
+	},
+	{
+		"value": "Zigzagoon",
+		"synonyms": [
+			"Zigzagoon"
+		]
+	},
+	{
+		"value": "Linoone",
+		"synonyms": [
+			"Linoone"
+		]
+	},
+	{
+		"value": "Wurmple",
+		"synonyms": [
+			"Wurmple"
+		]
+	},
+	{
+		"value": "Silcoon",
+		"synonyms": [
+			"Silcoon"
+		]
+	},
+	{
+		"value": "Beautifly",
+		"synonyms": [
+			"Beautifly"
+		]
+	},
+	{
+		"value": "Cascoon",
+		"synonyms": [
+			"Cascoon"
+		]
+	},
+	{
+		"value": "Dustox",
+		"synonyms": [
+			"Dustox"
+		]
+	},
+	{
+		"value": "Lotad",
+		"synonyms": [
+			"Lotad"
+		]
+	},
+	{
+		"value": "Lombre",
+		"synonyms": [
+			"Lombre"
+		]
+	},
+	{
+		"value": "Ludicolo",
+		"synonyms": [
+			"Ludicolo"
+		]
+	},
+	{
+		"value": "Seedot",
+		"synonyms": [
+			"Seedot"
+		]
+	},
+	{
+		"value": "Nuzleaf",
+		"synonyms": [
+			"Nuzleaf"
+		]
+	},
+	{
+		"value": "Shiftry",
+		"synonyms": [
+			"Shiftry"
+		]
+	},
+	{
+		"value": "Taillow",
+		"synonyms": [
+			"Taillow"
+		]
+	},
+	{
+		"value": "Swellow",
+		"synonyms": [
+			"Swellow"
+		]
+	},
+	{
+		"value": "Wingull",
+		"synonyms": [
+			"Wingull"
+		]
+	},
+	{
+		"value": "Pelipper",
+		"synonyms": [
+			"Pelipper"
+		]
+	},
+	{
+		"value": "Ralts",
+		"synonyms": [
+			"Ralts"
+		]
+	},
+	{
+		"value": "Kirlia",
+		"synonyms": [
+			"Kirlia"
+		]
+	},
+	{
+		"value": "Gardevoir",
+		"synonyms": [
+			"Gardevoir"
+		]
+	},
+	{
+		"value": "Surskit",
+		"synonyms": [
+			"Surskit"
+		]
+	},
+	{
+		"value": "Masquerain",
+		"synonyms": [
+			"Masquerain"
+		]
+	},
+	{
+		"value": "Shroomish",
+		"synonyms": [
+			"Shroomish"
+		]
+	},
+	{
+		"value": "Breloom",
+		"synonyms": [
+			"Breloom"
+		]
+	},
+	{
+		"value": "Slakoth",
+		"synonyms": [
+			"Slakoth"
+		]
+	},
+	{
+		"value": "Vigoroth",
+		"synonyms": [
+			"Vigoroth"
+		]
+	},
+	{
+		"value": "Slaking",
+		"synonyms": [
+			"Slaking"
+		]
+	},
+	{
+		"value": "Nincada",
+		"synonyms": [
+			"Nincada"
+		]
+	},
+	{
+		"value": "Ninjask",
+		"synonyms": [
+			"Ninjask"
+		]
+	},
+	{
+		"value": "Shedinja",
+		"synonyms": [
+			"Shedinja"
+		]
+	},
+	{
+		"value": "Whismur",
+		"synonyms": [
+			"Whismur"
+		]
+	},
+	{
+		"value": "Loudred",
+		"synonyms": [
+			"Loudred"
+		]
+	},
+	{
+		"value": "Exploud",
+		"synonyms": [
+			"Exploud"
+		]
+	},
+	{
+		"value": "Makuhita",
+		"synonyms": [
+			"Makuhita"
+		]
+	},
+	{
+		"value": "Hariyama",
+		"synonyms": [
+			"Hariyama"
+		]
+	},
+	{
+		"value": "Azurill",
+		"synonyms": [
+			"Azurill"
+		]
+	},
+	{
+		"value": "Nosepass",
+		"synonyms": [
+			"Nosepass"
+		]
+	},
+	{
+		"value": "Skitty",
+		"synonyms": [
+			"Skitty"
+		]
+	},
+	{
+		"value": "Delcatty",
+		"synonyms": [
+			"Delcatty"
+		]
+	},
+	{
+		"value": "Sableye",
+		"synonyms": [
+			"Sableye"
+		]
+	},
+	{
+		"value": "Mawile",
+		"synonyms": [
+			"Mawile"
+		]
+	},
+	{
+		"value": "Aron",
+		"synonyms": [
+			"Aron"
+		]
+	},
+	{
+		"value": "Lairon",
+		"synonyms": [
+			"Lairon"
+		]
+	},
+	{
+		"value": "Aggron",
+		"synonyms": [
+			"Aggron"
+		]
+	},
+	{
+		"value": "Meditite",
+		"synonyms": [
+			"Meditite"
+		]
+	},
+	{
+		"value": "Medicham",
+		"synonyms": [
+			"Medicham"
+		]
+	},
+	{
+		"value": "Electrike",
+		"synonyms": [
+			"Electrike"
+		]
+	},
+	{
+		"value": "Manectric",
+		"synonyms": [
+			"Manectric"
+		]
+	},
+	{
+		"value": "Plusle",
+		"synonyms": [
+			"Plusle"
+		]
+	},
+	{
+		"value": "Minun",
+		"synonyms": [
+			"Minun"
+		]
+	},
+	{
+		"value": "Volbeat",
+		"synonyms": [
+			"Volbeat"
+		]
+	},
+	{
+		"value": "Illumise",
+		"synonyms": [
+			"Illumise"
+		]
+	},
+	{
+		"value": "Roselia",
+		"synonyms": [
+			"Roselia"
+		]
+	},
+	{
+		"value": "Gulpin",
+		"synonyms": [
+			"Gulpin"
+		]
+	},
+	{
+		"value": "Swalot",
+		"synonyms": [
+			"Swalot"
+		]
+	},
+	{
+		"value": "Carvanha",
+		"synonyms": [
+			"Carvanha"
+		]
+	},
+	{
+		"value": "Sharpedo",
+		"synonyms": [
+			"Sharpedo"
+		]
+	},
+	{
+		"value": "Wailmer",
+		"synonyms": [
+			"Wailmer"
+		]
+	},
+	{
+		"value": "Wailord",
+		"synonyms": [
+			"Wailord"
+		]
+	},
+	{
+		"value": "Numel",
+		"synonyms": [
+			"Numel"
+		]
+	},
+	{
+		"value": "Camerupt",
+		"synonyms": [
+			"Camerupt"
+		]
+	},
+	{
+		"value": "Torkoal",
+		"synonyms": [
+			"Torkoal"
+		]
+	},
+	{
+		"value": "Spoink",
+		"synonyms": [
+			"Spoink"
+		]
+	},
+	{
+		"value": "Grumpig",
+		"synonyms": [
+			"Grumpig"
+		]
+	},
+	{
+		"value": "Spinda",
+		"synonyms": [
+			"Spinda"
+		]
+	},
+	{
+		"value": "Trapinch",
+		"synonyms": [
+			"Trapinch"
+		]
+	},
+	{
+		"value": "Vibrava",
+		"synonyms": [
+			"Vibrava"
+		]
+	},
+	{
+		"value": "Flygon",
+		"synonyms": [
+			"Flygon"
+		]
+	},
+	{
+		"value": "Cacnea",
+		"synonyms": [
+			"Cacnea"
+		]
+	},
+	{
+		"value": "Cacturne",
+		"synonyms": [
+			"Cacturne"
+		]
+	},
+	{
+		"value": "Swablu",
+		"synonyms": [
+			"Swablu"
+		]
+	},
+	{
+		"value": "Altaria",
+		"synonyms": [
+			"Altaria"
+		]
+	},
+	{
+		"value": "Zangoose",
+		"synonyms": [
+			"Zangoose"
+		]
+	},
+	{
+		"value": "Seviper",
+		"synonyms": [
+			"Seviper"
+		]
+	},
+	{
+		"value": "Lunatone",
+		"synonyms": [
+			"Lunatone"
+		]
+	},
+	{
+		"value": "Solrock",
+		"synonyms": [
+			"Solrock"
+		]
+	},
+	{
+		"value": "Barboach",
+		"synonyms": [
+			"Barboach"
+		]
+	},
+	{
+		"value": "Whiscash",
+		"synonyms": [
+			"Whiscash"
+		]
+	},
+	{
+		"value": "Corphish",
+		"synonyms": [
+			"Corphish"
+		]
+	},
+	{
+		"value": "Crawdaunt",
+		"synonyms": [
+			"Crawdaunt"
+		]
+	},
+	{
+		"value": "Baltoy",
+		"synonyms": [
+			"Baltoy"
+		]
+	},
+	{
+		"value": "Claydol",
+		"synonyms": [
+			"Claydol"
+		]
+	},
+	{
+		"value": "Lileep",
+		"synonyms": [
+			"Lileep"
+		]
+	},
+	{
+		"value": "Cradily",
+		"synonyms": [
+			"Cradily"
+		]
+	},
+	{
+		"value": "Anorith",
+		"synonyms": [
+			"Anorith"
+		]
+	},
+	{
+		"value": "Armaldo",
+		"synonyms": [
+			"Armaldo"
+		]
+	},
+	{
+		"value": "Feebas",
+		"synonyms": [
+			"Feebas"
+		]
+	},
+	{
+		"value": "Milotic",
+		"synonyms": [
+			"Milotic"
+		]
+	},
+	{
+		"value": "Castform",
+		"synonyms": [
+			"Castform"
+		]
+	},
+	{
+		"value": "Kecleon",
+		"synonyms": [
+			"Kecleon"
+		]
+	},
+	{
+		"value": "Shuppet",
+		"synonyms": [
+			"Shuppet"
+		]
+	},
+	{
+		"value": "Banette",
+		"synonyms": [
+			"Banette"
+		]
+	},
+	{
+		"value": "Duskull",
+		"synonyms": [
+			"Duskull"
+		]
+	},
+	{
+		"value": "Dusclops",
+		"synonyms": [
+			"Dusclops"
+		]
+	},
+	{
+		"value": "Tropius",
+		"synonyms": [
+			"Tropius"
+		]
+	},
+	{
+		"value": "Chimecho",
+		"synonyms": [
+			"Chimecho"
+		]
+	},
+	{
+		"value": "Absol",
+		"synonyms": [
+			"Absol"
+		]
+	},
+	{
+		"value": "Wynaut",
+		"synonyms": [
+			"Wynaut"
+		]
+	},
+	{
+		"value": "Snorunt",
+		"synonyms": [
+			"Snorunt"
+		]
+	},
+	{
+		"value": "Glalie",
+		"synonyms": [
+			"Glalie"
+		]
+	},
+	{
+		"value": "Spheal",
+		"synonyms": [
+			"Spheal"
+		]
+	},
+	{
+		"value": "Sealeo",
+		"synonyms": [
+			"Sealeo"
+		]
+	},
+	{
+		"value": "Walrein",
+		"synonyms": [
+			"Walrein"
+		]
+	},
+	{
+		"value": "Clamperl",
+		"synonyms": [
+			"Clamperl"
+		]
+	},
+	{
+		"value": "Huntail",
+		"synonyms": [
+			"Huntail"
+		]
+	},
+	{
+		"value": "Gorebyss",
+		"synonyms": [
+			"Gorebyss"
+		]
+	},
+	{
+		"value": "Relicanth",
+		"synonyms": [
+			"Relicanth"
+		]
+	},
+	{
+		"value": "Luvdisc",
+		"synonyms": [
+			"Luvdisc"
+		]
+	},
+	{
+		"value": "Bagon",
+		"synonyms": [
+			"Bagon"
+		]
+	},
+	{
+		"value": "Shelgon",
+		"synonyms": [
+			"Shelgon"
+		]
+	},
+	{
+		"value": "Salamence",
+		"synonyms": [
+			"Salamence"
+		]
+	},
+	{
+		"value": "Beldum",
+		"synonyms": [
+			"Beldum"
+		]
+	},
+	{
+		"value": "Metang",
+		"synonyms": [
+			"Metang"
+		]
+	},
+	{
+		"value": "Metagross",
+		"synonyms": [
+			"Metagross"
+		]
+	},
+	{
+		"value": "Regirock",
+		"synonyms": [
+			"Regirock"
+		]
+	},
+	{
+		"value": "Regice",
+		"synonyms": [
+			"Regice"
+		]
+	},
+	{
+		"value": "Registeel",
+		"synonyms": [
+			"Registeel"
+		]
+	},
+	{
+		"value": "Latias",
+		"synonyms": [
+			"Latias"
+		]
+	},
+	{
+		"value": "Latios",
+		"synonyms": [
+			"Latios"
+		]
+	},
+	{
+		"value": "Kyogre",
+		"synonyms": [
+			"Kyogre"
+		]
+	},
+	{
+		"value": "Groudon",
+		"synonyms": [
+			"Groudon"
+		]
+	},
+	{
+		"value": "Rayquaza",
+		"synonyms": [
+			"Rayquaza"
+		]
+	},
+	{
+		"value": "Jirachi",
+		"synonyms": [
+			"Jirachi"
+		]
+	},
+	{
+		"value": "Deoxys",
+		"synonyms": [
+			"Deoxys"
+		]
+	},
+	{
+		"value": "Turtwig",
+		"synonyms": [
+			"Turtwig"
+		]
+	},
+	{
+		"value": "Grotle",
+		"synonyms": [
+			"Grotle"
+		]
+	},
+	{
+		"value": "Torterra",
+		"synonyms": [
+			"Torterra"
+		]
+	},
+	{
+		"value": "Chimchar",
+		"synonyms": [
+			"Chimchar"
+		]
+	},
+	{
+		"value": "Monferno",
+		"synonyms": [
+			"Monferno"
+		]
+	},
+	{
+		"value": "Infernape",
+		"synonyms": [
+			"Infernape"
+		]
+	},
+	{
+		"value": "Piplup",
+		"synonyms": [
+			"Piplup"
+		]
+	},
+	{
+		"value": "Prinplup",
+		"synonyms": [
+			"Prinplup"
+		]
+	},
+	{
+		"value": "Empoleon",
+		"synonyms": [
+			"Empoleon"
+		]
+	},
+	{
+		"value": "Starly",
+		"synonyms": [
+			"Starly"
+		]
+	},
+	{
+		"value": "Staravia",
+		"synonyms": [
+			"Staravia"
+		]
+	},
+	{
+		"value": "Staraptor",
+		"synonyms": [
+			"Staraptor"
+		]
+	},
+	{
+		"value": "Bidoof",
+		"synonyms": [
+			"Bidoof"
+		]
+	},
+	{
+		"value": "Bibarel",
+		"synonyms": [
+			"Bibarel"
+		]
+	},
+	{
+		"value": "Kricketot",
+		"synonyms": [
+			"Kricketot"
+		]
+	},
+	{
+		"value": "Kricketune",
+		"synonyms": [
+			"Kricketune"
+		]
+	},
+	{
+		"value": "Shinx",
+		"synonyms": [
+			"Shinx"
+		]
+	},
+	{
+		"value": "Luxio",
+		"synonyms": [
+			"Luxio"
+		]
+	},
+	{
+		"value": "Luxray",
+		"synonyms": [
+			"Luxray"
+		]
+	},
+	{
+		"value": "Budew",
+		"synonyms": [
+			"Budew"
+		]
+	},
+	{
+		"value": "Roserade",
+		"synonyms": [
+			"Roserade"
+		]
+	},
+	{
+		"value": "Cranidos",
+		"synonyms": [
+			"Cranidos"
+		]
+	},
+	{
+		"value": "Rampardos",
+		"synonyms": [
+			"Rampardos"
+		]
+	},
+	{
+		"value": "Shieldon",
+		"synonyms": [
+			"Shieldon"
+		]
+	},
+	{
+		"value": "Bastiodon",
+		"synonyms": [
+			"Bastiodon"
+		]
+	},
+	{
+		"value": "Burmy",
+		"synonyms": [
+			"Burmy"
+		]
+	},
+	{
+		"value": "Wormadam",
+		"synonyms": [
+			"Wormadam"
+		]
+	},
+	{
+		"value": "Mothim",
+		"synonyms": [
+			"Mothim"
+		]
+	},
+	{
+		"value": "Combee",
+		"synonyms": [
+			"Combee"
+		]
+	},
+	{
+		"value": "Vespiquen",
+		"synonyms": [
+			"Vespiquen"
+		]
+	},
+	{
+		"value": "Pachirisu",
+		"synonyms": [
+			"Pachirisu"
+		]
+	},
+	{
+		"value": "Buizel",
+		"synonyms": [
+			"Buizel"
+		]
+	},
+	{
+		"value": "Floatzel",
+		"synonyms": [
+			"Floatzel"
+		]
+	},
+	{
+		"value": "Cherubi",
+		"synonyms": [
+			"Cherubi"
+		]
+	},
+	{
+		"value": "Cherrim",
+		"synonyms": [
+			"Cherrim"
+		]
+	},
+	{
+		"value": "Shellos",
+		"synonyms": [
+			"Shellos"
+		]
+	},
+	{
+		"value": "Gastrodon",
+		"synonyms": [
+			"Gastrodon"
+		]
+	},
+	{
+		"value": "Ambipom",
+		"synonyms": [
+			"Ambipom"
+		]
+	},
+	{
+		"value": "Drifloon",
+		"synonyms": [
+			"Drifloon"
+		]
+	},
+	{
+		"value": "Drifblim",
+		"synonyms": [
+			"Drifblim"
+		]
+	},
+	{
+		"value": "Buneary",
+		"synonyms": [
+			"Buneary"
+		]
+	},
+	{
+		"value": "Lopunny",
+		"synonyms": [
+			"Lopunny"
+		]
+	},
+	{
+		"value": "Mismagius",
+		"synonyms": [
+			"Mismagius"
+		]
+	},
+	{
+		"value": "Honchkrow",
+		"synonyms": [
+			"Honchkrow"
+		]
+	},
+	{
+		"value": "Glameow",
+		"synonyms": [
+			"Glameow"
+		]
+	},
+	{
+		"value": "Purugly",
+		"synonyms": [
+			"Purugly"
+		]
+	},
+	{
+		"value": "Chingling",
+		"synonyms": [
+			"Chingling"
+		]
+	},
+	{
+		"value": "Stunky",
+		"synonyms": [
+			"Stunky"
+		]
+	},
+	{
+		"value": "Skuntank",
+		"synonyms": [
+			"Skuntank"
+		]
+	},
+	{
+		"value": "Bronzor",
+		"synonyms": [
+			"Bronzor"
+		]
+	},
+	{
+		"value": "Bronzong",
+		"synonyms": [
+			"Bronzong"
+		]
+	},
+	{
+		"value": "Bonsly",
+		"synonyms": [
+			"Bonsly"
+		]
+	},
+	{
+		"value": "Mime Jr.",
+		"synonyms": [
+			"Mime Jr"
+		]
+	},
+	{
+		"value": "Happiny",
+		"synonyms": [
+			"Happiny"
+		]
+	},
+	{
+		"value": "Chatot",
+		"synonyms": [
+			"Chatot"
+		]
+	},
+	{
+		"value": "Spiritomb",
+		"synonyms": [
+			"Spiritomb"
+		]
+	},
+	{
+		"value": "Gible",
+		"synonyms": [
+			"Gible"
+		]
+	},
+	{
+		"value": "Gabite",
+		"synonyms": [
+			"Gabite"
+		]
+	},
+	{
+		"value": "Garchomp",
+		"synonyms": [
+			"Garchomp"
+		]
+	},
+	{
+		"value": "Munchlax",
+		"synonyms": [
+			"Munchlax"
+		]
+	},
+	{
+		"value": "Riolu",
+		"synonyms": [
+			"Riolu"
+		]
+	},
+	{
+		"value": "Lucario",
+		"synonyms": [
+			"Lucario"
+		]
+	},
+	{
+		"value": "Hippopotas",
+		"synonyms": [
+			"Hippopotas"
+		]
+	},
+	{
+		"value": "Hippowdon",
+		"synonyms": [
+			"Hippowdon"
+		]
+	},
+	{
+		"value": "Skorupi",
+		"synonyms": [
+			"Skorupi"
+		]
+	},
+	{
+		"value": "Drapion",
+		"synonyms": [
+			"Drapion"
+		]
+	},
+	{
+		"value": "Croagunk",
+		"synonyms": [
+			"Croagunk"
+		]
+	},
+	{
+		"value": "Toxicroak",
+		"synonyms": [
+			"Toxicroak"
+		]
+	},
+	{
+		"value": "Carnivine",
+		"synonyms": [
+			"Carnivine"
+		]
+	},
+	{
+		"value": "Finneon",
+		"synonyms": [
+			"Finneon"
+		]
+	},
+	{
+		"value": "Lumineon",
+		"synonyms": [
+			"Lumineon"
+		]
+	},
+	{
+		"value": "Mantyke",
+		"synonyms": [
+			"Mantyke"
+		]
+	},
+	{
+		"value": "Snover",
+		"synonyms": [
+			"Snover"
+		]
+	},
+	{
+		"value": "Abomasnow",
+		"synonyms": [
+			"Abomasnow"
+		]
+	},
+	{
+		"value": "Weavile",
+		"synonyms": [
+			"Weavile"
+		]
+	},
+	{
+		"value": "Magnezone",
+		"synonyms": [
+			"Magnezone"
+		]
+	},
+	{
+		"value": "Lickilicky",
+		"synonyms": [
+			"Lickilicky"
+		]
+	},
+	{
+		"value": "Rhyperior",
+		"synonyms": [
+			"Rhyperior"
+		]
+	},
+	{
+		"value": "Tangrowth",
+		"synonyms": [
+			"Tangrowth"
+		]
+	},
+	{
+		"value": "Electivire",
+		"synonyms": [
+			"Electivire"
+		]
+	},
+	{
+		"value": "Magmortar",
+		"synonyms": [
+			"Magmortar"
+		]
+	},
+	{
+		"value": "Togekiss",
+		"synonyms": [
+			"Togekiss"
+		]
+	},
+	{
+		"value": "Yanmega",
+		"synonyms": [
+			"Yanmega"
+		]
+	},
+	{
+		"value": "Leafeon",
+		"synonyms": [
+			"Leafeon"
+		]
+	},
+	{
+		"value": "Glaceon",
+		"synonyms": [
+			"Glaceon"
+		]
+	},
+	{
+		"value": "Gliscor",
+		"synonyms": [
+			"Gliscor"
+		]
+	},
+	{
+		"value": "Mamoswine",
+		"synonyms": [
+			"Mamoswine"
+		]
+	},
+	{
+		"value": "Porygon-Z",
+		"synonyms": [
+			"Porygon-Z"
+		]
+	},
+	{
+		"value": "Gallade",
+		"synonyms": [
+			"Gallade"
+		]
+	},
+	{
+		"value": "Probopass",
+		"synonyms": [
+			"Probopass"
+		]
+	},
+	{
+		"value": "Dusknoir",
+		"synonyms": [
+			"Dusknoir"
+		]
+	},
+	{
+		"value": "Froslass",
+		"synonyms": [
+			"Froslass"
+		]
+	},
+	{
+		"value": "Rotom",
+		"synonyms": [
+			"Rotom"
+		]
+	},
+	{
+		"value": "Uxie",
+		"synonyms": [
+			"Uxie"
+		]
+	},
+	{
+		"value": "Mesprit",
+		"synonyms": [
+			"Mesprit"
+		]
+	},
+	{
+		"value": "Azelf",
+		"synonyms": [
+			"Azelf"
+		]
+	},
+	{
+		"value": "Dialga",
+		"synonyms": [
+			"Dialga"
+		]
+	},
+	{
+		"value": "Palkia",
+		"synonyms": [
+			"Palkia"
+		]
+	},
+	{
+		"value": "Heatran",
+		"synonyms": [
+			"Heatran"
+		]
+	},
+	{
+		"value": "Regigigas",
+		"synonyms": [
+			"Regigigas"
+		]
+	},
+	{
+		"value": "Giratina",
+		"synonyms": [
+			"Giratina"
+		]
+	},
+	{
+		"value": "Cresselia",
+		"synonyms": [
+			"Cresselia"
+		]
+	},
+	{
+		"value": "Phione",
+		"synonyms": [
+			"Phione"
+		]
+	},
+	{
+		"value": "Manaphy",
+		"synonyms": [
+			"Manaphy"
+		]
+	},
+	{
+		"value": "Darkrai",
+		"synonyms": [
+			"Darkrai"
+		]
+	},
+	{
+		"value": "Shaymin",
+		"synonyms": [
+			"Shaymin"
+		]
+	},
+	{
+		"value": "Arceus",
+		"synonyms": [
+			"Arceus"
+		]
+	},
+	{
+		"value": "Victini",
+		"synonyms": [
+			"Victini"
+		]
+	},
+	{
+		"value": "Snivy",
+		"synonyms": [
+			"Snivy"
+		]
+	},
+	{
+		"value": "Servine",
+		"synonyms": [
+			"Servine"
+		]
+	},
+	{
+		"value": "Serperior",
+		"synonyms": [
+			"Serperior"
+		]
+	},
+	{
+		"value": "Tepig",
+		"synonyms": [
+			"Tepig"
+		]
+	},
+	{
+		"value": "Pignite",
+		"synonyms": [
+			"Pignite"
+		]
+	},
+	{
+		"value": "Emboar",
+		"synonyms": [
+			"Emboar"
+		]
+	},
+	{
+		"value": "Oshawott",
+		"synonyms": [
+			"Oshawott"
+		]
+	},
+	{
+		"value": "Dewott",
+		"synonyms": [
+			"Dewott"
+		]
+	},
+	{
+		"value": "Samurott",
+		"synonyms": [
+			"Samurott"
+		]
+	},
+	{
+		"value": "Patrat",
+		"synonyms": [
+			"Patrat"
+		]
+	},
+	{
+		"value": "Watchog",
+		"synonyms": [
+			"Watchog"
+		]
+	},
+	{
+		"value": "Lillipup",
+		"synonyms": [
+			"Lillipup"
+		]
+	},
+	{
+		"value": "Herdier",
+		"synonyms": [
+			"Herdier"
+		]
+	},
+	{
+		"value": "Stoutland",
+		"synonyms": [
+			"Stoutland"
+		]
+	},
+	{
+		"value": "Purrloin",
+		"synonyms": [
+			"Purrloin"
+		]
+	},
+	{
+		"value": "Liepard",
+		"synonyms": [
+			"Liepard"
+		]
+	},
+	{
+		"value": "Pansage",
+		"synonyms": [
+			"Pansage"
+		]
+	},
+	{
+		"value": "Simisage",
+		"synonyms": [
+			"Simisage"
+		]
+	},
+	{
+		"value": "Pansear",
+		"synonyms": [
+			"Pansear"
+		]
+	},
+	{
+		"value": "Simisear",
+		"synonyms": [
+			"Simisear"
+		]
+	},
+	{
+		"value": "Panpour",
+		"synonyms": [
+			"Panpour"
+		]
+	},
+	{
+		"value": "Simipour",
+		"synonyms": [
+			"Simipour"
+		]
+	},
+	{
+		"value": "Munna",
+		"synonyms": [
+			"Munna"
+		]
+	},
+	{
+		"value": "Musharna",
+		"synonyms": [
+			"Musharna"
+		]
+	},
+	{
+		"value": "Pidove",
+		"synonyms": [
+			"Pidove"
+		]
+	},
+	{
+		"value": "Tranquill",
+		"synonyms": [
+			"Tranquill"
+		]
+	},
+	{
+		"value": "Unfezant",
+		"synonyms": [
+			"Unfezant"
+		]
+	},
+	{
+		"value": "Blitzle",
+		"synonyms": [
+			"Blitzle"
+		]
+	},
+	{
+		"value": "Zebstrika",
+		"synonyms": [
+			"Zebstrika"
+		]
+	},
+	{
+		"value": "Roggenrola",
+		"synonyms": [
+			"Roggenrola"
+		]
+	},
+	{
+		"value": "Boldore",
+		"synonyms": [
+			"Boldore"
+		]
+	},
+	{
+		"value": "Gigalith",
+		"synonyms": [
+			"Gigalith"
+		]
+	},
+	{
+		"value": "Woobat",
+		"synonyms": [
+			"Woobat"
+		]
+	},
+	{
+		"value": "Swoobat",
+		"synonyms": [
+			"Swoobat"
+		]
+	},
+	{
+		"value": "Drilbur",
+		"synonyms": [
+			"Drilbur"
+		]
+	},
+	{
+		"value": "Excadrill",
+		"synonyms": [
+			"Excadrill"
+		]
+	},
+	{
+		"value": "Audino",
+		"synonyms": [
+			"Audino"
+		]
+	},
+	{
+		"value": "Timburr",
+		"synonyms": [
+			"Timburr"
+		]
+	},
+	{
+		"value": "Gurdurr",
+		"synonyms": [
+			"Gurdurr"
+		]
+	},
+	{
+		"value": "Conkeldurr",
+		"synonyms": [
+			"Conkeldurr"
+		]
+	},
+	{
+		"value": "Tympole",
+		"synonyms": [
+			"Tympole"
+		]
+	},
+	{
+		"value": "Palpitoad",
+		"synonyms": [
+			"Palpitoad"
+		]
+	},
+	{
+		"value": "Seismitoad",
+		"synonyms": [
+			"Seismitoad"
+		]
+	},
+	{
+		"value": "Throh",
+		"synonyms": [
+			"Throh"
+		]
+	},
+	{
+		"value": "Sawk",
+		"synonyms": [
+			"Sawk"
+		]
+	},
+	{
+		"value": "Sewaddle",
+		"synonyms": [
+			"Sewaddle"
+		]
+	},
+	{
+		"value": "Swadloon",
+		"synonyms": [
+			"Swadloon"
+		]
+	},
+	{
+		"value": "Leavanny",
+		"synonyms": [
+			"Leavanny"
+		]
+	},
+	{
+		"value": "Venipede",
+		"synonyms": [
+			"Venipede"
+		]
+	},
+	{
+		"value": "Whirlipede",
+		"synonyms": [
+			"Whirlipede"
+		]
+	},
+	{
+		"value": "Scolipede",
+		"synonyms": [
+			"Scolipede"
+		]
+	},
+	{
+		"value": "Cottonee",
+		"synonyms": [
+			"Cottonee"
+		]
+	},
+	{
+		"value": "Whimsicott",
+		"synonyms": [
+			"Whimsicott"
+		]
+	},
+	{
+		"value": "Petilil",
+		"synonyms": [
+			"Petilil"
+		]
+	},
+	{
+		"value": "Lilligant",
+		"synonyms": [
+			"Lilligant"
+		]
+	},
+	{
+		"value": "Basculin",
+		"synonyms": [
+			"Basculin"
+		]
+	},
+	{
+		"value": "Sandile",
+		"synonyms": [
+			"Sandile"
+		]
+	},
+	{
+		"value": "Krokorok",
+		"synonyms": [
+			"Krokorok"
+		]
+	},
+	{
+		"value": "Krookodile",
+		"synonyms": [
+			"Krookodile"
+		]
+	},
+	{
+		"value": "Darumaka",
+		"synonyms": [
+			"Darumaka"
+		]
+	},
+	{
+		"value": "Darmanitan",
+		"synonyms": [
+			"Darmanitan"
+		]
+	},
+	{
+		"value": "Maractus",
+		"synonyms": [
+			"Maractus"
+		]
+	},
+	{
+		"value": "Dwebble",
+		"synonyms": [
+			"Dwebble"
+		]
+	},
+	{
+		"value": "Crustle",
+		"synonyms": [
+			"Crustle"
+		]
+	},
+	{
+		"value": "Scraggy",
+		"synonyms": [
+			"Scraggy"
+		]
+	},
+	{
+		"value": "Scrafty",
+		"synonyms": [
+			"Scrafty"
+		]
+	},
+	{
+		"value": "Sigilyph",
+		"synonyms": [
+			"Sigilyph"
+		]
+	},
+	{
+		"value": "Yamask",
+		"synonyms": [
+			"Yamask"
+		]
+	},
+	{
+		"value": "Cofagrigus",
+		"synonyms": [
+			"Cofagrigus"
+		]
+	},
+	{
+		"value": "Tirtouga",
+		"synonyms": [
+			"Tirtouga"
+		]
+	},
+	{
+		"value": "Carracosta",
+		"synonyms": [
+			"Carracosta"
+		]
+	},
+	{
+		"value": "Archen",
+		"synonyms": [
+			"Archen"
+		]
+	},
+	{
+		"value": "Archeops",
+		"synonyms": [
+			"Archeops"
+		]
+	},
+	{
+		"value": "Trubbish",
+		"synonyms": [
+			"Trubbish"
+		]
+	},
+	{
+		"value": "Garbodor",
+		"synonyms": [
+			"Garbodor"
+		]
+	},
+	{
+		"value": "Zorua",
+		"synonyms": [
+			"Zorua"
+		]
+	},
+	{
+		"value": "Zoroark",
+		"synonyms": [
+			"Zoroark"
+		]
+	},
+	{
+		"value": "Minccino",
+		"synonyms": [
+			"Minccino"
+		]
+	},
+	{
+		"value": "Cinccino",
+		"synonyms": [
+			"Cinccino"
+		]
+	},
+	{
+		"value": "Gothita",
+		"synonyms": [
+			"Gothita"
+		]
+	},
+	{
+		"value": "Gothorita",
+		"synonyms": [
+			"Gothorita"
+		]
+	},
+	{
+		"value": "Gothitelle",
+		"synonyms": [
+			"Gothitelle"
+		]
+	},
+	{
+		"value": "Solosis",
+		"synonyms": [
+			"Solosis"
+		]
+	},
+	{
+		"value": "Duosion",
+		"synonyms": [
+			"Duosion"
+		]
+	},
+	{
+		"value": "Reuniclus",
+		"synonyms": [
+			"Reuniclus"
+		]
+	},
+	{
+		"value": "Ducklett",
+		"synonyms": [
+			"Ducklett"
+		]
+	},
+	{
+		"value": "Swanna",
+		"synonyms": [
+			"Swanna"
+		]
+	},
+	{
+		"value": "Vanillite",
+		"synonyms": [
+			"Vanillite"
+		]
+	},
+	{
+		"value": "Vanillish",
+		"synonyms": [
+			"Vanillish"
+		]
+	},
+	{
+		"value": "Vanilluxe",
+		"synonyms": [
+			"Vanilluxe"
+		]
+	},
+	{
+		"value": "Deerling",
+		"synonyms": [
+			"Deerling"
+		]
+	},
+	{
+		"value": "Sawsbuck",
+		"synonyms": [
+			"Sawsbuck"
+		]
+	},
+	{
+		"value": "Emolga",
+		"synonyms": [
+			"Emolga"
+		]
+	},
+	{
+		"value": "Karrablast",
+		"synonyms": [
+			"Karrablast"
+		]
+	},
+	{
+		"value": "Escavalier",
+		"synonyms": [
+			"Escavalier"
+		]
+	},
+	{
+		"value": "Foongus",
+		"synonyms": [
+			"Foongus"
+		]
+	},
+	{
+		"value": "Amoonguss",
+		"synonyms": [
+			"Amoonguss"
+		]
+	},
+	{
+		"value": "Frillish",
+		"synonyms": [
+			"Frillish"
+		]
+	},
+	{
+		"value": "Jellicent",
+		"synonyms": [
+			"Jellicent"
+		]
+	},
+	{
+		"value": "Alomomola",
+		"synonyms": [
+			"Alomomola"
+		]
+	},
+	{
+		"value": "Joltik",
+		"synonyms": [
+			"Joltik"
+		]
+	},
+	{
+		"value": "Galvantula",
+		"synonyms": [
+			"Galvantula"
+		]
+	},
+	{
+		"value": "Ferroseed",
+		"synonyms": [
+			"Ferroseed"
+		]
+	},
+	{
+		"value": "Ferrothorn",
+		"synonyms": [
+			"Ferrothorn"
+		]
+	},
+	{
+		"value": "Klink",
+		"synonyms": [
+			"Klink"
+		]
+	},
+	{
+		"value": "Klang",
+		"synonyms": [
+			"Klang"
+		]
+	},
+	{
+		"value": "Klinklang",
+		"synonyms": [
+			"Klinklang"
+		]
+	},
+	{
+		"value": "Tynamo",
+		"synonyms": [
+			"Tynamo"
+		]
+	},
+	{
+		"value": "Eelektrik",
+		"synonyms": [
+			"Eelektrik"
+		]
+	},
+	{
+		"value": "Eelektross",
+		"synonyms": [
+			"Eelektross"
+		]
+	},
+	{
+		"value": "Elgyem",
+		"synonyms": [
+			"Elgyem"
+		]
+	},
+	{
+		"value": "Beheeyem",
+		"synonyms": [
+			"Beheeyem"
+		]
+	},
+	{
+		"value": "Litwick",
+		"synonyms": [
+			"Litwick"
+		]
+	},
+	{
+		"value": "Lampent",
+		"synonyms": [
+			"Lampent"
+		]
+	},
+	{
+		"value": "Chandelure",
+		"synonyms": [
+			"Chandelure"
+		]
+	},
+	{
+		"value": "Axew",
+		"synonyms": [
+			"Axew"
+		]
+	},
+	{
+		"value": "Fraxure",
+		"synonyms": [
+			"Fraxure"
+		]
+	},
+	{
+		"value": "Haxorus",
+		"synonyms": [
+			"Haxorus"
+		]
+	},
+	{
+		"value": "Cubchoo",
+		"synonyms": [
+			"Cubchoo"
+		]
+	},
+	{
+		"value": "Beartic",
+		"synonyms": [
+			"Beartic"
+		]
+	},
+	{
+		"value": "Cryogonal",
+		"synonyms": [
+			"Cryogonal"
+		]
+	},
+	{
+		"value": "Shelmet",
+		"synonyms": [
+			"Shelmet"
+		]
+	},
+	{
+		"value": "Accelgor",
+		"synonyms": [
+			"Accelgor"
+		]
+	},
+	{
+		"value": "Stunfisk",
+		"synonyms": [
+			"Stunfisk"
+		]
+	},
+	{
+		"value": "Mienfoo",
+		"synonyms": [
+			"Mienfoo"
+		]
+	},
+	{
+		"value": "Mienshao",
+		"synonyms": [
+			"Mienshao"
+		]
+	},
+	{
+		"value": "Druddigon",
+		"synonyms": [
+			"Druddigon"
+		]
+	},
+	{
+		"value": "Golett",
+		"synonyms": [
+			"Golett"
+		]
+	},
+	{
+		"value": "Golurk",
+		"synonyms": [
+			"Golurk"
+		]
+	},
+	{
+		"value": "Pawniard",
+		"synonyms": [
+			"Pawniard"
+		]
+	},
+	{
+		"value": "Bisharp",
+		"synonyms": [
+			"Bisharp"
+		]
+	},
+	{
+		"value": "Bouffalant",
+		"synonyms": [
+			"Bouffalant"
+		]
+	},
+	{
+		"value": "Rufflet",
+		"synonyms": [
+			"Rufflet"
+		]
+	},
+	{
+		"value": "Braviary",
+		"synonyms": [
+			"Braviary"
+		]
+	},
+	{
+		"value": "Vullaby",
+		"synonyms": [
+			"Vullaby"
+		]
+	},
+	{
+		"value": "Mandibuzz",
+		"synonyms": [
+			"Mandibuzz"
+		]
+	},
+	{
+		"value": "Heatmor",
+		"synonyms": [
+			"Heatmor"
+		]
+	},
+	{
+		"value": "Durant",
+		"synonyms": [
+			"Durant"
+		]
+	},
+	{
+		"value": "Deino",
+		"synonyms": [
+			"Deino"
+		]
+	},
+	{
+		"value": "Zweilous",
+		"synonyms": [
+			"Zweilous"
+		]
+	},
+	{
+		"value": "Hydreigon",
+		"synonyms": [
+			"Hydreigon"
+		]
+	},
+	{
+		"value": "Larvesta",
+		"synonyms": [
+			"Larvesta"
+		]
+	},
+	{
+		"value": "Volcarona",
+		"synonyms": [
+			"Volcarona"
+		]
+	},
+	{
+		"value": "Cobalion",
+		"synonyms": [
+			"Cobalion"
+		]
+	},
+	{
+		"value": "Terrakion",
+		"synonyms": [
+			"Terrakion"
+		]
+	},
+	{
+		"value": "Virizion",
+		"synonyms": [
+			"Virizion"
+		]
+	},
+	{
+		"value": "Tornadus",
+		"synonyms": [
+			"Tornadus"
+		]
+	},
+	{
+		"value": "Thundurus",
+		"synonyms": [
+			"Thundurus"
+		]
+	},
+	{
+		"value": "Reshiram",
+		"synonyms": [
+			"Reshiram"
+		]
+	},
+	{
+		"value": "Zekrom",
+		"synonyms": [
+			"Zekrom"
+		]
+	},
+	{
+		"value": "Landorus",
+		"synonyms": [
+			"Landorus"
+		]
+	},
+	{
+		"value": "Kyurem",
+		"synonyms": [
+			"Kyurem"
+		]
+	},
+	{
+		"value": "Keldeo",
+		"synonyms": [
+			"Keldeo"
+		]
+	},
+	{
+		"value": "Meloetta",
+		"synonyms": [
+			"Meloetta"
+		]
+	},
+	{
+		"value": "Genesect",
+		"synonyms": [
+			"Genesect"
+		]
+	},
+	{
+		"value": "Chespin",
+		"synonyms": [
+			"Chespin"
+		]
+	},
+	{
+		"value": "Quilladin",
+		"synonyms": [
+			"Quilladin"
+		]
+	},
+	{
+		"value": "Chesnaught",
+		"synonyms": [
+			"Chesnaught"
+		]
+	},
+	{
+		"value": "Fennekin",
+		"synonyms": [
+			"Fennekin"
+		]
+	},
+	{
+		"value": "Braixen",
+		"synonyms": [
+			"Braixen"
+		]
+	},
+	{
+		"value": "Delphox",
+		"synonyms": [
+			"Delphox"
+		]
+	},
+	{
+		"value": "Froakie",
+		"synonyms": [
+			"Froakie"
+		]
+	},
+	{
+		"value": "Frogadier",
+		"synonyms": [
+			"Frogadier"
+		]
+	},
+	{
+		"value": "Greninja",
+		"synonyms": [
+			"Greninja"
+		]
+	},
+	{
+		"value": "Bunnelby",
+		"synonyms": [
+			"Bunnelby"
+		]
+	},
+	{
+		"value": "Diggersby",
+		"synonyms": [
+			"Diggersby"
+		]
+	},
+	{
+		"value": "Fletchling",
+		"synonyms": [
+			"Fletchling"
+		]
+	},
+	{
+		"value": "Fletchinder",
+		"synonyms": [
+			"Fletchinder"
+		]
+	},
+	{
+		"value": "Talonflame",
+		"synonyms": [
+			"Talonflame"
+		]
+	},
+	{
+		"value": "Scatterbug",
+		"synonyms": [
+			"Scatterbug"
+		]
+	},
+	{
+		"value": "Spewpa",
+		"synonyms": [
+			"Spewpa"
+		]
+	},
+	{
+		"value": "Vivillon",
+		"synonyms": [
+			"Vivillon"
+		]
+	},
+	{
+		"value": "Litleo",
+		"synonyms": [
+			"Litleo"
+		]
+	},
+	{
+		"value": "Pyroar",
+		"synonyms": [
+			"Pyroar"
+		]
+	},
+	{
+		"value": "Flabébé",
+		"synonyms": [
+			"Flabébé"
+		]
+	},
+	{
+		"value": "Floette",
+		"synonyms": [
+			"Floette"
+		]
+	},
+	{
+		"value": "Florges",
+		"synonyms": [
+			"Florges"
+		]
+	},
+	{
+		"value": "Skiddo",
+		"synonyms": [
+			"Skiddo"
+		]
+	},
+	{
+		"value": "Gogoat",
+		"synonyms": [
+			"Gogoat"
+		]
+	},
+	{
+		"value": "Pancham",
+		"synonyms": [
+			"Pancham"
+		]
+	},
+	{
+		"value": "Pangoro",
+		"synonyms": [
+			"Pangoro"
+		]
+	},
+	{
+		"value": "Furfrou",
+		"synonyms": [
+			"Furfrou"
+		]
+	},
+	{
+		"value": "Espurr",
+		"synonyms": [
+			"Espurr"
+		]
+	},
+	{
+		"value": "Meowstic",
+		"synonyms": [
+			"Meowstic"
+		]
+	},
+	{
+		"value": "Honedge",
+		"synonyms": [
+			"Honedge"
+		]
+	},
+	{
+		"value": "Doublade",
+		"synonyms": [
+			"Doublade"
+		]
+	},
+	{
+		"value": "Aegislash",
+		"synonyms": [
+			"Aegislash"
+		]
+	},
+	{
+		"value": "Spritzee",
+		"synonyms": [
+			"Spritzee"
+		]
+	},
+	{
+		"value": "Aromatisse",
+		"synonyms": [
+			"Aromatisse"
+		]
+	},
+	{
+		"value": "Swirlix",
+		"synonyms": [
+			"Swirlix"
+		]
+	},
+	{
+		"value": "Slurpuff",
+		"synonyms": [
+			"Slurpuff"
+		]
+	},
+	{
+		"value": "Inkay",
+		"synonyms": [
+			"Inkay"
+		]
+	},
+	{
+		"value": "Malamar",
+		"synonyms": [
+			"Malamar"
+		]
+	},
+	{
+		"value": "Binacle",
+		"synonyms": [
+			"Binacle"
+		]
+	},
+	{
+		"value": "Barbaracle",
+		"synonyms": [
+			"Barbaracle"
+		]
+	},
+	{
+		"value": "Skrelp",
+		"synonyms": [
+			"Skrelp"
+		]
+	},
+	{
+		"value": "Dragalge",
+		"synonyms": [
+			"Dragalge"
+		]
+	},
+	{
+		"value": "Clauncher",
+		"synonyms": [
+			"Clauncher"
+		]
+	},
+	{
+		"value": "Clawitzer",
+		"synonyms": [
+			"Clawitzer"
+		]
+	},
+	{
+		"value": "Helioptile",
+		"synonyms": [
+			"Helioptile"
+		]
+	},
+	{
+		"value": "Heliolisk",
+		"synonyms": [
+			"Heliolisk"
+		]
+	},
+	{
+		"value": "Tyrunt",
+		"synonyms": [
+			"Tyrunt"
+		]
+	},
+	{
+		"value": "Tyrantrum",
+		"synonyms": [
+			"Tyrantrum"
+		]
+	},
+	{
+		"value": "Amaura",
+		"synonyms": [
+			"Amaura"
+		]
+	},
+	{
+		"value": "Aurorus",
+		"synonyms": [
+			"Aurorus"
+		]
+	},
+	{
+		"value": "Sylveon",
+		"synonyms": [
+			"Sylveon"
+		]
+	},
+	{
+		"value": "Hawlucha",
+		"synonyms": [
+			"Hawlucha"
+		]
+	},
+	{
+		"value": "Dedenne",
+		"synonyms": [
+			"Dedenne"
+		]
+	},
+	{
+		"value": "Carbink",
+		"synonyms": [
+			"Carbink"
+		]
+	},
+	{
+		"value": "Goomy",
+		"synonyms": [
+			"Goomy"
+		]
+	},
+	{
+		"value": "Sliggoo",
+		"synonyms": [
+			"Sliggoo"
+		]
+	},
+	{
+		"value": "Goodra",
+		"synonyms": [
+			"Goodra"
+		]
+	},
+	{
+		"value": "Klefki",
+		"synonyms": [
+			"Klefki"
+		]
+	},
+	{
+		"value": "Phantump",
+		"synonyms": [
+			"Phantump"
+		]
+	},
+	{
+		"value": "Trevenant",
+		"synonyms": [
+			"Trevenant"
+		]
+	},
+	{
+		"value": "Pumpkaboo",
+		"synonyms": [
+			"Pumpkaboo"
+		]
+	},
+	{
+		"value": "Gourgeist",
+		"synonyms": [
+			"Gourgeist"
+		]
+	},
+	{
+		"value": "Bergmite",
+		"synonyms": [
+			"Bergmite"
+		]
+	},
+	{
+		"value": "Avalugg",
+		"synonyms": [
+			"Avalugg"
+		]
+	},
+	{
+		"value": "Noibat",
+		"synonyms": [
+			"Noibat"
+		]
+	},
+	{
+		"value": "Noivern",
+		"synonyms": [
+			"Noivern"
+		]
+	},
+	{
+		"value": "Xerneas",
+		"synonyms": [
+			"Xerneas"
+		]
+	},
+	{
+		"value": "Yveltal",
+		"synonyms": [
+			"Yveltal"
+		]
+	},
+	{
+		"value": "Zygarde",
+		"synonyms": [
+			"Zygarde"
+		]
+	},
+	{
+		"value": "Diancie",
+		"synonyms": [
+			"Diancie"
+		]
+	},
+	{
+		"value": "Hoopa",
+		"synonyms": [
+			"Hoopa"
+		]
+	},
+	{
+		"value": "Volcanion",
+		"synonyms": [
+			"Volcanion"
+		]
+	},
+	{
+		"value": "Rowlet",
+		"synonyms": [
+			"Rowlet"
+		]
+	},
+	{
+		"value": "Dartrix",
+		"synonyms": [
+			"Dartrix"
+		]
+	},
+	{
+		"value": "Decidueye",
+		"synonyms": [
+			"Decidueye"
+		]
+	},
+	{
+		"value": "Litten",
+		"synonyms": [
+			"Litten"
+		]
+	},
+	{
+		"value": "Torracat",
+		"synonyms": [
+			"Torracat"
+		]
+	},
+	{
+		"value": "Incineroar",
+		"synonyms": [
+			"Incineroar"
+		]
+	},
+	{
+		"value": "Popplio",
+		"synonyms": [
+			"Popplio"
+		]
+	},
+	{
+		"value": "Brionne",
+		"synonyms": [
+			"Brionne"
+		]
+	},
+	{
+		"value": "Primarina",
+		"synonyms": [
+			"Primarina"
+		]
+	},
+	{
+		"value": "Pikipek",
+		"synonyms": [
+			"Pikipek"
+		]
+	},
+	{
+		"value": "Trumbeak",
+		"synonyms": [
+			"Trumbeak"
+		]
+	},
+	{
+		"value": "Toucannon",
+		"synonyms": [
+			"Toucannon"
+		]
+	},
+	{
+		"value": "Yungoos",
+		"synonyms": [
+			"Yungoos"
+		]
+	},
+	{
+		"value": "Gumshoos",
+		"synonyms": [
+			"Gumshoos"
+		]
+	},
+	{
+		"value": "Grubbin",
+		"synonyms": [
+			"Grubbin"
+		]
+	},
+	{
+		"value": "Charjabug",
+		"synonyms": [
+			"Charjabug"
+		]
+	},
+	{
+		"value": "Vikavolt",
+		"synonyms": [
+			"Vikavolt"
+		]
+	},
+	{
+		"value": "Crabrawler",
+		"synonyms": [
+			"Crabrawler"
+		]
+	},
+	{
+		"value": "Crabominable",
+		"synonyms": [
+			"Crabominable"
+		]
+	},
+	{
+		"value": "Oricorio",
+		"synonyms": [
+			"Oricorio"
+		]
+	},
+	{
+		"value": "Cutiefly",
+		"synonyms": [
+			"Cutiefly"
+		]
+	},
+	{
+		"value": "Ribombee",
+		"synonyms": [
+			"Ribombee"
+		]
+	},
+	{
+		"value": "Rockruff",
+		"synonyms": [
+			"Rockruff"
+		]
+	},
+	{
+		"value": "Lycanroc",
+		"synonyms": [
+			"Lycanroc"
+		]
+	},
+	{
+		"value": "Wishiwashi",
+		"synonyms": [
+			"Wishiwashi"
+		]
+	},
+	{
+		"value": "Mareanie",
+		"synonyms": [
+			"Mareanie"
+		]
+	},
+	{
+		"value": "Toxapex",
+		"synonyms": [
+			"Toxapex"
+		]
+	},
+	{
+		"value": "Mudbray",
+		"synonyms": [
+			"Mudbray"
+		]
+	},
+	{
+		"value": "Mudsdale",
+		"synonyms": [
+			"Mudsdale"
+		]
+	},
+	{
+		"value": "Dewpider",
+		"synonyms": [
+			"Dewpider"
+		]
+	},
+	{
+		"value": "Araquanid",
+		"synonyms": [
+			"Araquanid"
+		]
+	},
+	{
+		"value": "Fomantis",
+		"synonyms": [
+			"Fomantis"
+		]
+	},
+	{
+		"value": "Lurantis",
+		"synonyms": [
+			"Lurantis"
+		]
+	},
+	{
+		"value": "Morelull",
+		"synonyms": [
+			"Morelull"
+		]
+	},
+	{
+		"value": "Shiinotic",
+		"synonyms": [
+			"Shiinotic"
+		]
+	},
+	{
+		"value": "Salandit",
+		"synonyms": [
+			"Salandit"
+		]
+	},
+	{
+		"value": "Salazzle",
+		"synonyms": [
+			"Salazzle"
+		]
+	},
+	{
+		"value": "Stufful",
+		"synonyms": [
+			"Stufful"
+		]
+	},
+	{
+		"value": "Bewear",
+		"synonyms": [
+			"Bewear"
+		]
+	},
+	{
+		"value": "Bounsweet",
+		"synonyms": [
+			"Bounsweet"
+		]
+	},
+	{
+		"value": "Steenee",
+		"synonyms": [
+			"Steenee"
+		]
+	},
+	{
+		"value": "Tsareena",
+		"synonyms": [
+			"Tsareena"
+		]
+	},
+	{
+		"value": "Comfey",
+		"synonyms": [
+			"Comfey"
+		]
+	},
+	{
+		"value": "Oranguru",
+		"synonyms": [
+			"Oranguru"
+		]
+	},
+	{
+		"value": "Passimian",
+		"synonyms": [
+			"Passimian"
+		]
+	},
+	{
+		"value": "Wimpod",
+		"synonyms": [
+			"Wimpod"
+		]
+	},
+	{
+		"value": "Golisopod",
+		"synonyms": [
+			"Golisopod"
+		]
+	},
+	{
+		"value": "Sandygast",
+		"synonyms": [
+			"Sandygast"
+		]
+	},
+	{
+		"value": "Palossand",
+		"synonyms": [
+			"Palossand"
+		]
+	},
+	{
+		"value": "Pyukumuku",
+		"synonyms": [
+			"Pyukumuku"
+		]
+	},
+	{
+		"value": "Type: Null",
+		"synonyms": [
+			"Type Null"
+		]
+	},
+	{
+		"value": "Silvally",
+		"synonyms": [
+			"Silvally"
+		]
+	},
+	{
+		"value": "Minior",
+		"synonyms": [
+			"Minior"
+		]
+	},
+	{
+		"value": "Komala",
+		"synonyms": [
+			"Komala"
+		]
+	},
+	{
+		"value": "Turtonator",
+		"synonyms": [
+			"Turtonator"
+		]
+	},
+	{
+		"value": "Togedemaru",
+		"synonyms": [
+			"Togedemaru"
+		]
+	},
+	{
+		"value": "Mimikyu",
+		"synonyms": [
+			"Mimikyu"
+		]
+	},
+	{
+		"value": "Bruxish",
+		"synonyms": [
+			"Bruxish"
+		]
+	},
+	{
+		"value": "Drampa",
+		"synonyms": [
+			"Drampa"
+		]
+	},
+	{
+		"value": "Dhelmise",
+		"synonyms": [
+			"Dhelmise"
+		]
+	},
+	{
+		"value": "Jangmo-o",
+		"synonyms": [
+			"Jangmo-o"
+		]
+	},
+	{
+		"value": "Hakamo-o",
+		"synonyms": [
+			"Hakamo-o"
+		]
+	},
+	{
+		"value": "Kommo-o",
+		"synonyms": [
+			"Kommo-o"
+		]
+	},
+	{
+		"value": "Tapu Koko",
+		"synonyms": [
+			"Tapu Koko"
+		]
+	},
+	{
+		"value": "Tapu Lele",
+		"synonyms": [
+			"Tapu Lele"
+		]
+	},
+	{
+		"value": "Tapu Bulu",
+		"synonyms": [
+			"Tapu Bulu"
+		]
+	},
+	{
+		"value": "Tapu Fini",
+		"synonyms": [
+			"Tapu Fini"
+		]
+	},
+	{
+		"value": "Cosmog",
+		"synonyms": [
+			"Cosmog"
+		]
+	},
+	{
+		"value": "Cosmoem",
+		"synonyms": [
+			"Cosmoem"
+		]
+	},
+	{
+		"value": "Solgaleo",
+		"synonyms": [
+			"Solgaleo"
+		]
+	},
+	{
+		"value": "Lunala",
+		"synonyms": [
+			"Lunala"
+		]
+	},
+	{
+		"value": "Nihilego",
+		"synonyms": [
+			"Nihilego"
+		]
+	},
+	{
+		"value": "Buzzwole",
+		"synonyms": [
+			"Buzzwole"
+		]
+	},
+	{
+		"value": "Pheromosa",
+		"synonyms": [
+			"Pheromosa"
+		]
+	},
+	{
+		"value": "Xurkitree",
+		"synonyms": [
+			"Xurkitree"
+		]
+	},
+	{
+		"value": "Celesteela",
+		"synonyms": [
+			"Celesteela"
+		]
+	},
+	{
+		"value": "Kartana",
+		"synonyms": [
+			"Kartana"
+		]
+	},
+	{
+		"value": "Guzzlord",
+		"synonyms": [
+			"Guzzlord"
+		]
+	},
+	{
+		"value": "Necrozma",
+		"synonyms": [
+			"Necrozma"
+		]
+	},
+	{
+		"value": "Magearna",
+		"synonyms": [
+			"Magearna"
+		]
+	},
+	{
+		"value": "Marshadow",
+		"synonyms": [
+			"Marshadow"
+		]
+	},
+	{
+		"value": "Poipole",
+		"synonyms": [
+			"Poipole"
+		]
+	},
+	{
+		"value": "Naganadel",
+		"synonyms": [
+			"Naganadel"
+		]
+	},
+	{
+		"value": "Stakataka",
+		"synonyms": [
+			"Stakataka"
+		]
+	},
+	{
+		"value": "Blacephalon",
+		"synonyms": [
+			"Blacephalon"
+		]
+	},
+	{
+		"value": "Zeraora",
+		"synonyms": [
+			"Zeraora"
+		]
+	}
+]
