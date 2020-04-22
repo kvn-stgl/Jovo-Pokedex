@@ -4,11 +4,16 @@
   "description": "A sample voice app that works with the Jovo Framework",
   "main": "src/index.js",
   "dependencies": {
+    "jovo-cli-core": "^3.0.2",
+    "jovo-cli-deploy-lambda": "^3.0.2",
+    "jovo-cli-platform-alexa": "^3.0.4",
+    "jovo-cli-platform-google": "^3.0.5",
     "jovo-db-filedb": "^3.0.0",
     "jovo-framework": "^3.0.13",
     "jovo-platform-alexa": "^3.0.0",
     "jovo-platform-googleassistant": "^3.0.0",
     "jovo-plugin-debugger": "^3.0.0",
+    "jovo-webhook-connector": "^3.0.3",
     "pokedex-promise-v2": "^3.2.0"
   },
   "devDependencies": {
@@ -17,7 +22,7 @@
     "gulp-run-command": "0.0.9",
     "gulp-zip": "^4.2.0",
     "jest": "^23.6.0",
-    "jovo-cli": "^3.0.7"
+    "jovo-cli": "^3.0.8"
   },
   "scripts": {
     "tsc": "node -v",
