@@ -1,4 +1,5 @@
-# A pokedex voice app for Amazon Alexa / Google Assistant
+# A pokedex for Amazon Alexa / Google Assistant 
+![Node.js CI](https://github.com/kvn-stgl/Jovo-Pokedex/workflows/Node.js%20CI/badge.svg)
 
 ### created with:
 * [Jovo](https://www.jovo.tech) A nice framework that lets you build cross-platform voice apps with a single code base.
